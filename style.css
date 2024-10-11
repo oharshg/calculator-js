@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.js-buttons {
+  margin-top: 20px;
+}
+.css-result {
+  font-size: 40px;
+  color: white;
+}
+.css-common-styles-btns {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: none;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  /* font-weight: bold; */
+}
+.gray-btns {
+  background-color: rgb(81, 79, 79);
+}
+.orange-btns {
+  background-color: orange;
+}
